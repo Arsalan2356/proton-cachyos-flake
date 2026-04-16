@@ -1,7 +1,7 @@
 {
-  "version": "10.0-20260408",
+  "version": "10.0-20260409",
   "x86_64-linux": {
-    "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20260408-slr/proton-cachyos-10.0-20260408-slr-x86_64_v3.tar.xz",
-    "hash": "sha256-1TQUNLSvFlMTGaSOCusm5wtJ+IcSPWGTbt5S+Zg0XUk="
+    "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20260409-slr/proton-cachyos-10.0-20260409-slr-x86_64_v3.tar.xz",
+    "hash": "sha256-inm8HhCyR7xew2qr/u5BIOlz/DTA6KrtdreRX19305Q="
   }
 }
